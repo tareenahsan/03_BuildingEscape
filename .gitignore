@@ -1,0 +1,17 @@
+##########################
+# UNREAL GENERATED FILES #
+##########################
+*/Intermediate/
+*/Saved/
+*/Build/
+*/DerivedDataCache/
+*/Binaries/
+BuildingEscape/Content/StarterContent/
+*/.vs/
+######################
+# VS GENERATED FILES #
+######################
+*.VC.db
+*VC.opendb
+
+##\BuildingEscape\v15\ipch\
